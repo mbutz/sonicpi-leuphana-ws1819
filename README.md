@@ -3,10 +3,12 @@
 
 Code, Ressourcen und Dokumentationen zum Projektseminar an der Leuphana Universität Lüneburg, Wintersemester 2018/19
 
-[Zur Sessionübersicht](https://github.com/mbutz/sonicpi-leuphana-ws1718/blob/master/session-overview.md)
+[Zur Sessionübersicht](https://github.com/mbutz/sonicpi-leuphana-ws1819/blob/master/session-overview.md)
 
-> Use code to compose and perform in classical and contemporary styles ranging from Canons to Dubstep. 
-> (Sam Aaron)
+> Simple enough for computing and music lessons.
+> Powerful enough for professional musicians.
+> Free to download with a friendly tutorial.
+> Diverse community of over one million live coders.
 
 Sonic Pi ist eine Open Source Programmierumgebung, mit der Musik kreiert werden kann. Sonic Pi wurde 2013 von Sam Aaron an der Universität Cambridge entwickelt - ursprünglich, um Konzepte der Programmierung an Schulen zu unterrichten. Der Schwerpunkt liegt hierbei auf der kreativ-sinnlichen Auseinandersetzung mit der Musik - Konzepte der Programmierung werden gleichsam nebenbei vermittelt.
 
@@ -37,4 +39,4 @@ Desweiteren bietet das Seminar Gelegenheit, sich mit den folgenden Fragen und Th
 * [Offizielle Community zu Sonic Pi](https://in-thread.sonic-pi.net)
 * [Google Groups (weitgehend ersetzt durch 'In_Thread')](https://groups.google.com/forum/#!forum/sonic-pi)
 
-[Zur Sessionübersicht](https://github.com/mbutz/sonicpi-leuphana-ws1718/blob/master/session-overview.md)
+[Zur Sessionübersicht](https://github.com/mbutz/sonicpi-leuphana-ws1819/blob/master/session-overview.md)
