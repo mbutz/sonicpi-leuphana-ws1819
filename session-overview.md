@@ -2,14 +2,14 @@
 
 Die mit "Referat" gekennzeichneten Themen sind Beiträge (Seminarleistungen) der TeilnehmerInnen. Zur Vorbereitung der Referate sollten die angegebenen Ressourcen ausgewertet werden. Natürlich können Sie zusätzlich auch auf eigene Quellen zurückgreifen. Alle weiteren genannten Themen werden vom Dozenten vorbereitet.
 
-Weiterhin wird je Sitzung eine Übungsaufgabe bis zur nächsten Sitzung gestellt ('Hausaufgabe'). Die Aufgabe hilft Ihnen dabei den Gebrauch grundlegender Features und Funktionen einzuüben. In der jeweiligen Folgesitzungen werden die Ergebnisse von einem/r TeilnehmerInnen vorgestellt.
+Weiterhin wird je Sitzung eine Übungsaufgabe bis zur nächsten Sitzung gestellt ('Hausaufgabe'). Die Aufgabe hilft Ihnen dabei den Gebrauch grundlegender Features und Funktionen einzuüben. In der jeweiligen Folgesitzung werden die Ergebnisse möglichst von mehreren TeilnehmerInnen vorgestellt.
 
-Jede Session (mit Ausnahme der ersten und der letzten) besteht aus folgenden Teilen:
+Jede Session (mit Ausnahme der ersten) besteht aus folgenden Teilen:
 
 - Vorstellung der 'Hausaufgabe' durch 1-3 TeilnehmerInnen
 - Referat TeilnehmerInnen
 - Erläuterungen, Präsentation des Dozenten
-- Pair Programming (gemeinsames Arbeiten an Abschlussprojekt in Gruppen von jeweils zwei TeilnehmerInnen)
+- Pair Programming: gemeinsames Arbeiten an (Abschluss-)Projekt in Gruppen von jeweils zwei TeilnehmerInnen
 
 Die folgende Seminarübersicht ist vorläufig und wird je nach Interesse und Lernstand angepasst.
 
@@ -39,7 +39,10 @@ Datum: 31.10.2018
 
 ### Referat
 
-- Grundbegriffe der Klangerzeugung durch Synthesizer mit Hinblick auf Sonic Pi
+- Grundbegriffe der Klangerzeugung durch Synthesizer mit Hinblick auf Sonic Pi.
+
+Stichworte dazu:
+
     - Sinuston und Obertöne
     - Grundkomponenten eines Synthesizers (Oscillator, Filter, Amplifier, Envelope, LFO)
     - Wellenformen, Modulation, Hüllkurve, Filter
@@ -88,7 +91,7 @@ Datum: 28.11.2018
 - Referat: Filter und Effekte in Sonic Pi
 - Synchronisation von `live_loops`
 - Linearer Ablauf mit `in_thread`
-- Nach Absprache im Seminar: Tonmaterial, Skalen, Akkorde (kurze Einführung in die Musiktheorie mit Sonic Pi)
+- Nach Absprache im Seminar: Tonmaterial, Skalen, Akkorde und Akkordfolgen (kurze Einführung in die Musiktheorie mit Sonic Pi)
 - Pair Programming
 
 ### Referat
@@ -108,7 +111,7 @@ Datum: 28.11.2018
 Datum: 12.12.2018
 
 - Präsentation der Hausaufgabe von 28.11.
-- Referat: Elektronische Musik am Beispiel von "Kontakte" von Karlheinz Stockhausen
+- Referat: Elektronische Musik I am Beispiel von "Kontakte" von Karlheinz Stockhausen
 - Wiederholung des Materials aus vorhergehenden Sessions (Tonfolgen, Effekte, `live_loop`, `in_thread` etc.)
 - Pair Programming
 
@@ -144,7 +147,7 @@ Datum: 09.01.2019
 Datum: 23.01.2019
 
 - Präsentation der Hausaufgabe vom 09.01.
-- Schnittstellen: Midi und OSC: externe Geräte ansteuern oder mit externen Geräten ansteuern
+- Midi und OSC: Sonic Pi mit externen Geräte ansteuern (z. B. Midi-Controller) oder externe Geräten steuern (z. B. Hard- oder Software-Synthesizer)
 - Vorstellung der vorläufigen Arbeitsergebnisse
 - Rekapitulation
 - Offene Fragen
