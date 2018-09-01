@@ -43,13 +43,13 @@ Datum: 31.10.2018
 
 Stichworte dazu:
 
-    - Sinuston und Obertöne
-    - Grundkomponenten eines Synthesizers (Oscillator, Filter, Amplifier, Envelope, LFO)
-    - Wellenformen, Modulation, Hüllkurve, Filter
-    - Additive und subtraktive Synthese
-    - Synthesizer in Sonic Pi
-    - Klangbeispiele mit Modifikationen der Hüllkurve
-    - Demonstration und Erläuterung der ausgewählter Parameter (z. B. `synth :fm`)
+- Sinuston und Obertöne
+- Grundkomponenten eines Synthesizers (Oscillator, Filter, Amplifier, Envelope, LFO)
+- Wellenformen, Modulation, Hüllkurve, Filter
+- Additive und subtraktive Synthese
+- Synthesizer in Sonic Pi
+- Klangbeispiele mit Modifikationen der Hüllkurve
+- Demonstration und Erläuterung der ausgewählter Parameter (z. B. `synth :fm`)
 
 ### Ressourcen
 
