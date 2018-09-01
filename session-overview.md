@@ -171,6 +171,8 @@ The 14 pieces of software that shaped modern music, by John Twells, Oct 1 2016, 
 
 **Samples (Download)**
 
+Free Sound Samples; Links gesammelt auf: http://wiki.laptop.org/go/Sound_samples
+
 Sampleswap: This exquisite hand-picked collection of original 16-bit 44khz samples is entirely free—as it has been since 2001 when I started organizing this library..., http://sampleswap.org/
 
 Freesound.org: Freesound aims to create a huge collaborative database of audio snippets, samples, recordings, bleeps, ... released under Creative Commons licenses that allow their reuse, http://www.freesound.org
