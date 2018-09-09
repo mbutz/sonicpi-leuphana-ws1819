@@ -191,7 +191,7 @@ The Flipside (Forum), February 12, 2009 (ich weiss nicht, wie aktuell diese List
 
 The Bedroom Producers Blog, an online magazine about cheap and affordable music making software, hardware and other music production tools. http://bedroomproducersblog.com/category/sample-packs/
 
-**Akustik, Synthesizer, Klangsynthese**
+**Synthesizer, Klangsynthese**
 
 Additive synthese waveform generator, https://meettechniek.info/additional/additive-synthesis.html
 
@@ -205,7 +205,7 @@ Amplitude Modulation. An interactive demo which enables you to both see and hear
 
 An Introduction to FM Synthesis,  http://flypaper.soundfly.com/produce/an-introduction-to-fm-synthesis/
 
-**Akustik, Klang, Musiktheorie**
+**Akustik, Klang, Musiktheorie, Stilmittel, Genres**
 
 How Music Works: Acoustics for Musicians, http://www.thejazzpianosite.com/how-music-works
 
@@ -215,14 +215,16 @@ Professional music theory: an outline of basic music theory, by Oscar van Dillen
 
 Famous Chord Progressions, https://www.hooktheory.com/theorytab/common-chord-progressions
 
-Music Theory Net, Common Chord Progressions
-http://www.musictheory.net/lessons/57
+Music Theory Net, Common Chord Progressions, http://www.musictheory.net/lessons/57
 
 Drum patterns and exercises, http://www.ethanhein.com/wp/my-nyu-masters-thesis/drum-patterns-and-exercises/
 
 Dance Music Rudiments, Free E-Book with Audio Examples and Midi Files, http://users.skynet.be/shedo/DMR1/Index.htm
 
 Equalization 101 – Everything Musicians Need to Know About EQ, http://flypaper.soundfly.com/produce/equalization-101-everything-musicians-need-know-eq/
+
+Cult Sounds: An investigation of the origins, applications and effects of dominant individual sounds in popular music between 1960 and 2014, Dr. Immanuel Brockhaus, 
+Hochschule der Künste Bern, Schweiz, http://cult-sounds.com
 
 **Midi & OSC (Open Sound Control)
 
