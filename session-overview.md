@@ -157,41 +157,26 @@ Anlaufstelle für Entwickler: https://github.com/samaaron/sonic-pi
 
 Offizielle Sonic-Pi-Community: https://in-thread.sonic-pi.net
 
-## Allgemeine Ressourcen
+## Live Coding
 
-(wird laufend ergänzt)
+Sam Aaron, YouTube Channel, https://www.youtube.com/watch?v=KJPdbp1An2s
 
-**FACT Magazin, 3 Artikel zur Einführung in Werkzeuge zur Erstellung von elektronischer Musik**
+Martin Butz, (mostly) live coded experiments and tracks, https://www.youtube.com/channel/UCT_roO1KTLkJTO-4qQPe_kg; tracks made with Sonic Pi and some postproduction on https://soundcloud.com/mbutz/tracks
 
-The 14 most important synths in electronic music history – and the musicians who use them, John Twells, Sep 15 2016, http://www.factmag.com/2016/09/15/14-most-important-synths/
+Alexandre rANGEL 'bit crusher' Sonic Pi live coding, https://www.youtube.com/watch?v=7Yr-HGRikRg
 
-The 14 pieces of software that shaped modern music, by John Twells, Oct 1 2016, http://www.factmag.com/2016/10/01/the-14-pieces-of-software-that-shaped-modern-music
+Live coding dub techno in Sonic Pi von Jindřich Mynarz, https://www.youtube.com/watch?v=a1RxpJkvqpY
 
-15 samplers that shaped modern music – and the musicians who use them, Laurent Fintoni, Sep 15 2016, http://www.factmag.com/2016/09/15/15-samplers-that-shaped-modern-music/
+Earth To Abigail, Jungle Rhythms - Live Coding Session with Sonic Pi
+https://m.youtube.com/watch?v=AuNNYn2BQYU
 
-**Samples (Download)**
+All things livecoding - A curated list of livecoding languages and tools, https://github.com/lvm/awesome-livecoding/
 
-Free Sound Samples; Links gesammelt auf: http://wiki.laptop.org/go/Sound_samples
+Bericht über Live-Coding im Deutschlandfunk vom 18.10.2016, http://www.deutschlandfunk.de/live-coding-konferenz-die-leute-koennen-sehen-wie-musik.807.de.html?dram:article_id=368890
 
-Sampleswap: This exquisite hand-picked collection of original 16-bit 44khz samples is entirely free—as it has been since 2001 when I started organizing this library..., http://sampleswap.org/
+Toplap - Home of Live Coding, http://toplap.org/
 
-Freesound.org: Freesound aims to create a huge collaborative database of audio snippets, samples, recordings, bleeps, ... released under Creative Commons licenses that allow their reuse, http://www.freesound.org
-
-Philharmonic Orchestra: Thousands of free, downloadable sound samples specially recorded by Philharmonia Orchestra players. These samples are suitable for creating any kind of music, no matter what style: http://www.philharmonia.co.uk/explore/make_music
-
-59,413 free sample downloads (A to Z), The MusicRadar Team (01.10.2016), http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820
-
-Free Wave Samples: Free Wave Samples provides high-quality wav files free for use in your audio projects, http://freewavesamples.com/
-
-Hiphop Production Resource & Free Samples, http://www.thesample.net/
-
-FLStudioMusic offers one of the biggest archive of free sample packs featuring one-shots, sound effects, vocals, foley and much more. http://www.flstudiomusic.com/category/free-sample-packs
-
-The Flipside (Forum), February 12, 2009 (ich weiss nicht, wie aktuell diese Liste ist), http://www.theflipsideforum.com/index.php?topic=11431.0
-
-The Bedroom Producers Blog, an online magazine about cheap and affordable music making software, hardware and other music production tools. http://bedroomproducersblog.com/category/sample-packs/
-
-**Synthesizer, Klangsynthese**
+## Synthesizer, Klangsynthese
 
 Additive synthese waveform generator, https://meettechniek.info/additional/additive-synthesis.html
 
@@ -207,7 +192,7 @@ Amplitude Modulation. An interactive demo which enables you to both see and hear
 
 An Introduction to FM Synthesis,  http://flypaper.soundfly.com/produce/an-introduction-to-fm-synthesis/
 
-**Akustik, Klang, Musiktheorie, Stilmittel, Genres**
+## Akustik, Klang, Musiktheorie, Stilmittel, Genre
 
 How Music Works: Acoustics for Musicians, http://www.thejazzpianosite.com/how-music-works
 
@@ -228,11 +213,11 @@ Equalization 101 – Everything Musicians Need to Know About EQ, http://flypaper
 Cult Sounds: An investigation of the origins, applications and effects of dominant individual sounds in popular music between 1960 and 2014, Dr. Immanuel Brockhaus, 
 Hochschule der Künste Bern, Schweiz, http://cult-sounds.com
 
-**Midi & OSC (Open Sound Control)
+## Midi & OSC (Open Sound Control)
 
 This MIDI tutorial will help you to understand how you can use the MIDI language to control any device that uses the MIDI protocol, http://www.music-software-development.com/midi-tutorial.html
 
-**Kreativität & Ästhetik**
+## Kreativität & Ästhetik**
 
 DeSantis, Dennis (2015): Making Music. 74 Creative Strategies for Electronic Music Producers, Berlin: Ableton.
 
@@ -241,21 +226,36 @@ Was bedeutet eigentlich „live“? Obwohl die Beantwortung dieser Frage alles a
 
 Drum Patterns for Electronic Music, http://subaqueousmusic.com/drum-patterns-for-electronic-music/
 
-**Live Coding**
+## Allgemeine Ressourcen
 
-Sam Aaron, YouTube Channel, https://www.youtube.com/watch?v=KJPdbp1An2s
+(wird laufend ergänzt)
 
-Martin Butz, (mostly) live coded experiments and tracks, https://www.youtube.com/channel/UCT_roO1KTLkJTO-4qQPe_kg; tracks made with Sonic Pi and some postproduction on https://soundcloud.com/mbutz/tracks
+**FACT Magazin, 3 Artikel zur Einführung in Werkzeuge zur Erstellung von elektronischer Musik**
 
-Alexandre rANGEL 'bit crusher' Sonic Pi live coding, https://www.youtube.com/watch?v=7Yr-HGRikRg
+The 14 most important synths in electronic music history – and the musicians who use them, John Twells, Sep 15 2016, http://www.factmag.com/2016/09/15/14-most-important-synths/
 
-Live coding dub techno in Sonic Pi von Jindřich Mynarz, https://www.youtube.com/watch?v=a1RxpJkvqpY
+The 14 pieces of software that shaped modern music, by John Twells, Oct 1 2016, http://www.factmag.com/2016/10/01/the-14-pieces-of-software-that-shaped-modern-music
 
-Earth To Abigail, Jungle Rhythms - Live Coding Session with Sonic Pi
-https://m.youtube.com/watch?v=AuNNYn2BQYU
+15 samplers that shaped modern music – and the musicians who use them, Laurent Fintoni, Sep 15 2016, http://www.factmag.com/2016/09/15/15-samplers-that-shaped-modern-music/
 
-All things livecoding - A curated list of livecoding languages and tools, https://github.com/lvm/awesome-livecoding/
+## Samples (Download)
 
-Bericht über Live-Coding im Deutschlandfunk vom 18.10.2016, http://www.deutschlandfunk.de/live-coding-konferenz-die-leute-koennen-sehen-wie-musik.807.de.html?dram:article_id=368890
+Free Sound Samples; Links gesammelt auf: http://wiki.laptop.org/go/Sound_samples
 
-Toplap - Home of Live Coding, http://toplap.org/
+Sampleswap: This exquisite hand-picked collection of original 16-bit 44khz samples is entirely free—as it has been since 2001 when I started organizing this library..., http://sampleswap.org/
+
+Freesound.org: Freesound aims to create a huge collaborative database of audio snippets, samples, recordings, bleeps, ... released under Creative Commons licenses that allow their reuse, http://www.freesound.org
+
+Philharmonic Orchestra: Thousands of free, downloadable sound samples specially recorded by Philharmonia Orchestra players. These samples are suitable for creating any kind of music, no matter what style: http://www.philharmonia.co.uk/explore/make_music
+
+59,413 free sample downloads (A to Z), The MusicRadar Team (01.10.2016), http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820
+
+Free Wave Samples: Free Wave Samples provides high-quality wav files free for use in your audio projects, http://freewavesamples.com/
+
+Hiphop Production Resource & Free Samples, http://www.thesample.net/
+
+FLStudioMusic offers one of the biggest archive of free sample packs featuring one-shots, sound effects, vocals, foley and much more. http://www.flstudiomusic.com/category/free-sample-packs
+
+The Flipside (Forum), February 12, 2009 (ich weiss nicht, wie aktuell diese Liste ist), http://www.theflipsideforum.com/index.php?topic=11431.0
+
+The Bedroom Producers Blog, an online magazine about cheap and affordable music making software, hardware and other music production tools. http://bedroomproducersblog.com/category/sample-packs/
