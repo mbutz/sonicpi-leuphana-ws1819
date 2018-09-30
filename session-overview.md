@@ -243,15 +243,9 @@ Drum Patterns for Electronic Music, http://subaqueousmusic.com/drum-patterns-for
 
 **Live Coding**
 
-All things livecoding - A curated list of livecoding languages and tools, https://github.com/lvm/awesome-livecoding/
+Sam Aaron, YouTube Channel, https://www.youtube.com/watch?v=KJPdbp1An2s
 
-Bericht über Live-Coding im Deutschlandfunk vom 18.10.2016, http://www.deutschlandfunk.de/live-coding-konferenz-die-leute-koennen-sehen-wie-musik.807.de.html?dram:article_id=368890
-
-Sam Aaron live coding a DJ set with Sonic Pi, https://www.youtube.com/watch?v=KJPdbp1An2s
-
-Sam Aaron live coding an ambient electro set w/ Sonic Pi, https://www.youtube.com/watch?v=G1m0aX9Lpts
-
-Live Coding Channel von Sam Aaron, https://www.livecoding.tv/samaaron/
+Martin Butz, (mostly) live coded experiments and tracks, https://www.youtube.com/channel/UCT_roO1KTLkJTO-4qQPe_kg; tracks made with Sonic Pi and some postproduction on https://soundcloud.com/mbutz/tracks
 
 Alexandre rANGEL 'bit crusher' Sonic Pi live coding, https://www.youtube.com/watch?v=7Yr-HGRikRg
 
@@ -260,6 +254,8 @@ Live coding dub techno in Sonic Pi von Jindřich Mynarz, https://www.youtube.com
 Earth To Abigail, Jungle Rhythms - Live Coding Session with Sonic Pi
 https://m.youtube.com/watch?v=AuNNYn2BQYU
 
-Martin Butz, (mostly) Live coded tracks, https://www.youtube.com/channel/UCT_roO1KTLkJTO-4qQPe_kg; tracks made with Sonic Pi and some postproduction, https://soundcloud.com/mbutz/tracks
+All things livecoding - A curated list of livecoding languages and tools, https://github.com/lvm/awesome-livecoding/
+
+Bericht über Live-Coding im Deutschlandfunk vom 18.10.2016, http://www.deutschlandfunk.de/live-coding-konferenz-die-leute-koennen-sehen-wie-musik.807.de.html?dram:article_id=368890
 
 Toplap - Home of Live Coding, http://toplap.org/
