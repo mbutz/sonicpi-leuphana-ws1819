@@ -199,6 +199,8 @@ Additive synthese waveform generator, https://meettechniek.info/additional/addit
 
 How do Synthesizers work, http://www.explainthatstuff.com/synthesizers.html, (basale aber gut verständliche Einführung)
 
+Subtractive synths explained: Everything you wanted to know (and more) about the most widespread synthesis method in music technology, https://www.residentadvisor.net/features/1351 (gute Einführung in alle wichtigen Komponenten eines Synthesizers)
+
 The Physics Hypertextbook. Music & Noise, Glenn Elert, http://physics.info/music/
 
 Amplitude Modulation. An interactive demo which enables you to both see and hear the result of multiplying a sine wave with a cosine amplitude envelope, https://academo.org/demos/amplitude-modulation/
