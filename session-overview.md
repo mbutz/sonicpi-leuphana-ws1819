@@ -151,13 +151,17 @@ Datum: 23.01.2019
 
 ## Weitere Ressourcen zum Seminar
 
-(wird laufend ergänzt)
+(wird laufend ergänzt**
 
 ### Sonic Pi
 
 * Homepage von Sonic Pi: http://sonic-pi.net/
 * Offizielle Sonic-Pi-Community: https://in-thread.sonic-pi.net
-* Anlaufstelle für Entwickler: https://github.com/samaaron/sonic-pi 
+* Anlaufstelle für Entwickler: https://github.com/samaaron/sonic-pi
+* Libraries für Sonic Pi (Wrapper zur vereinfachten Notation von Melodien, Rhythmen etc.):
+  * beatPattern: These are some functions to parse a string like 'x-x-(hc)-[xx:2]-' into a ring of samples, (nested) rings or (nested) arrays to create a nice beat,  https://github.com/stahnirockt/beatPattern/blob/master/README.md
+  * Petal: is a small language on Sonic Pi with similar syntax to TidalCycles, https://github.com/siaflab/petal
+  * Ziffers: is a numbered musical notation (aka. Ziffersystem) that makes composing melodies easier and faster for any key or scale, https://github.com/amiika/ziffers
 
 ### Live Coding
 
