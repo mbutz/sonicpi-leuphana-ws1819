@@ -151,8 +151,6 @@ Datum: 23.01.2019
 
 ## Weitere Ressourcen zum Seminar
 
-(wird laufend ergänzt**
-
 ### Sonic Pi
 
 * Homepage von Sonic Pi: http://sonic-pi.net/
