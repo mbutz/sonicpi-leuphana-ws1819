@@ -164,6 +164,7 @@ Datum: 23.01.2019
 ### Live Coding
 
 * Sam Aaron, YouTube Channel, https://www.youtube.com/watch?v=KJPdbp1An2s
+* Martin Butz,  Making Music with Text: Audible Programming with Sonic Pi (Live Coding & Presentation), https://media.ccc.de/v/sonoj2018-1806-sonic-pi 
 * Martin Butz, (mostly) live coded experiments and tracks, https://www.youtube.com/channel/UCT_roO1KTLkJTO-4qQPe_kg; tracks made with Sonic Pi and some postproduction on https://soundcloud.com/mbutz/tracks
 * Alexandre rANGEL 'bit crusher' Sonic Pi live coding, https://www.youtube.com/watch?v=7Yr-HGRikRg
 * Live coding dub techno in Sonic Pi von Jindřich Mynarz, https://www.youtube.com/watch?v=a1RxpJkvqpY
@@ -182,6 +183,7 @@ https://m.youtube.com/watch?v=AuNNYn2BQYU
 * The Physics Hypertextbook. Music & Noise, Glenn Elert, http://physics.info/music/
 * Amplitude Modulation. An interactive demo which enables you to both see and hear the result of multiplying a sine wave with a cosine amplitude envelope, https://academo.org/demos/amplitude-modulation/
 * An Introduction to FM Synthesis,  http://flypaper.soundfly.com/produce/an-introduction-to-fm-synthesis/
+* Instrument, effect and plugin host VST Plugins and VST3 Plugins and soundware for Windows, Mac OS X and Linux: https://www.kvraudio.com/plugins/windows/macosx/linux/vst-plugins/vst3-plugins/instruments/effects/hosts/soundware/newest
 
 ### Akustik, Klang, Musiktheorie, Stilmittel, Genre
 
@@ -199,7 +201,7 @@ https://m.youtube.com/watch?v=AuNNYn2BQYU
 
 * This MIDI tutorial will help you to understand how you can use the MIDI language to control any device that uses the MIDI protocol, http://www.music-software-development.com/midi-tutorial.html
 
-### Kreativität & Ästhetik**
+### Kreativität & Ästhetik
 
 * eSantis, Dennis (2015): Making Music. 74 Creative Strategies for Electronic Music Producers, Berlin: Ableton.
 * Bense, Arne (2016): Live – eine gelöschte Unterscheidung, Blogbeitrag vom 12.08.2016, letzter Abruf am: 10.10.2016, https://netzpolitik.org/2016/live-eine-geloeschte-unterscheidung/
