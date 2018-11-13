@@ -13,4 +13,4 @@ Beispiele der Klangspektren unterschiedlicher Musikinstrumente finden sich unter
 
 ## Materialien zur Einführung in Funktionsweise und Komponenten eines Synthesizers
 
-[Quellen auf der Session-Übersichtsseite]:(https://github.com/mbutz/sonicpi-leuphana-ws1819/blob/master/session-overview.md#synthesizer-klangsynthese)
+* [Quellen auf der Session-Übersichtsseite](https://github.com/mbutz/sonicpi-leuphana-ws1819/blob/master/session-overview.md#synthesizer-klangsynthese)
