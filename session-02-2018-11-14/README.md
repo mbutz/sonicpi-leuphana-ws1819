@@ -2,7 +2,7 @@
 
 ## Beispiele für Klangsynthese und Hüllkurven (Sonic Visualiser)
 
-[Sonic Visualiser](http://sonicvisualiser.org/) ist ein Programm mit dem der akustische Inhalt von Klang- und Musik-Dateien visualisiert und untersucht werden kann. Es steht [zum Download](http://sonicvisualiser.org/download.html) für Linux, MacOSX® und Windows® zur Verfügung. Ein Tutorial für den Umgang mit Sonic Visualiser findet sich auf der Website von [AHRC Research](http://www.charm.rhul.ac.uk/analysing/p9_0_1.html).
+[Sonic Visualiser](http://sonicvisualiser.org/) ist ein Programm mit dem der akustische Inhalt von Klang- und Musik-Dateien visualisiert und untersucht werden kann. Es steht [zum Download](http://sonicvisualiser.org/download.html) für Linux, MacOSX® und Windows® zur Verfügung. Ein Tutorial für den Umgang mit Sonic Visualiser findet sich auf der Website von [AHRC Research](http://www.charm.rhul.ac.uk/analysing/p9_0_1.html). Eine Kurzeinführung im Ordner [sonic-visualiser hier auf der Site]:(https://github.com/mbutz/sonicpi-leuphana-ws1819/tree/master/sonic-visualiser).
 
 Diese beiden folgenden Ordner enthalten MP3-Klangdateien, die mit Sonic Pi aufgenommen wurden, sowie dazugehörige Dateien für den Sonic Visualiser (mit Dateiendung *.sv):
 
