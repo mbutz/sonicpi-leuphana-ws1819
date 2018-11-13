@@ -30,7 +30,7 @@ Datum: 17.10.2018
 
 ## Session 2: Synthesizer in Sonic Pi, live_Loop, tick & look
 
-Datum: 31.10.2018
+Datum: 14.11.2018
 
 - Präsentation der Hausaufgabe vom 17.10.
 - Referat: Synthesizer (Grundlagen, Bestand in Sonic Pi)
@@ -60,9 +60,9 @@ Datum: 31.10.2018
 
 ## Session 3: Samples in Sonic Pi, Live_Loop-Synchronisation
 
-Datum: 14.11.2018
+Datum: 28.11.2018
 
-- Präsentation der Hausaufgabe vom 31.10.
+- Präsentation der Hausaufgabe vom 14.11.
 - Referat: Samples in Sonic Pi (Einbindung, Parameter, externe Samples)
 - Sample-Parameter und Slicing
 - Synchronisation von Live-Loops (Codebeispiele mit Erläuterungen)
@@ -82,9 +82,9 @@ Datum: 14.11.2018
 
 ## Session 4: Filter und Effekte in Sonic Pi, Musiktheorie
 
-Datum: 28.11.2018
+Datum: 12.12.2018
 
-- Präsentation der Hausaufgabe vom 14.11.
+- Präsentation der Hausaufgabe vom 28.11.
 - Referat: Filter und Effekte in Sonic Pi
 - Synchronisation von `live_loops`
 - Linearer Ablauf mit `in_thread`
@@ -105,9 +105,9 @@ Datum: 28.11.2018
 
 ## Session 5: Elektronische Musik I, Organisation und Ablaufsteuerung von Code II
 
-Datum: 12.12.2018
+Datum: 09.01.2018
 
-- Präsentation der Hausaufgabe von 28.11.
+- Präsentation der Hausaufgabe von 12.12.
 - Referat: Elektronische Musik I am Beispiel von "Kontakte" von Karlheinz Stockhausen
 - Wiederholung des Materials aus vorhergehenden Sessions (Tonfolgen, Effekte, `live_loop`, `in_thread` etc.)
 - Pair Programming
@@ -123,9 +123,9 @@ Datum: 12.12.2018
 
 ## Session 6: Elektronische Musik II: Electronica, musikalische Analyse
 
-Datum: 09.01.2019
+Datum: 23.01.2019
 
-- Präsentation der Hausaufgabe von 12.12.
+- Präsentation der Hausaufgabe von 09.01.
 - Referat: Elektronische Musik II, "Advice to clever children": Aphex Twin, Plasticman, Scanner, Daniel Pemberton u.a.
 - Musikalische Analyse und Nachbau in Sonic Pi ([SonicVisualizer](https://github.com/mbutz/sonicpi-leuphana-ws1617/tree/master/sonic-visualiser), Codebeispiele und Erläuterungen zu Nachbau von [Digital Bubblebath](https://www.youtube.com/watch?v=Fy8h3kSef1E)/[Nachbau](https://soundcloud.com/mbutz/digital-bubblebath) und [Otaku](https://www.youtube.com/watch?v=OYusX7V1SaI)/[Nachbau](https://soundcloud.com/mbutz/otaku-1-from-series-rec-with-sonic-pi))
 - Pair Programming
@@ -141,9 +141,9 @@ Datum: 09.01.2019
 
 ## Session 7: Sonic Pi mit Midi & OSC erweitern - Rückblick
 
-Datum: 23.01.2019
+Datum: 06.02.2019
 
-- Präsentation der Hausaufgabe vom 09.01.
+- Präsentation der Hausaufgabe vom 23.01.
 - Midi und OSC: Sonic Pi mit externen Geräte ansteuern (z. B. Midi-Controller) oder externe Geräten steuern (z. B. Hard- oder Software-Synthesizer)
 - Vorstellung der vorläufigen Arbeitsergebnisse
 - Rekapitulation
@@ -177,8 +177,11 @@ https://m.youtube.com/watch?v=AuNNYn2BQYU
 ### Synthesizer, Klangsynthese
 
 * Additive synthese waveform generator, https://meettechniek.info/additional/additive-synthesis.html
+* 'Modulator' lets you graphically build a modular sound synthesizer: https://lcrespom.github.io/synth/
 * 63 Detaillierte Synthese-Tutorials von Sound on Sound, http://sonicbloom.net/de/63-detaillierte-synthese-tutorials-sound-on-sound/
 * How do Synthesizers work, http://www.explainthatstuff.com/synthesizers.html, (basale aber gut verständliche Einführung)
+* Synthesis types by Matt Ottewill, http://www.planetoftunes.com/synthesis/synthesis-types.htm
+* Sound on Sound, Synth Secrets: all 63 Parts on Sound On Sound site, https://www.soundonsound.com/search/articles/%2522Synth%2520Secrets%2522, as PDF-Download: http://www.mediafire.com/file/7w2dcsqmkbeduea/Synth+Secrets+Complete.pdf
 * Subtractive synths explained: Everything you wanted to know (and more) about the most widespread synthesis method in music technology, https://www.residentadvisor.net/features/1351 (gute Einführung in alle wichtigen Komponenten eines Synthesizers)
 * The Physics Hypertextbook. Music & Noise, Glenn Elert, http://physics.info/music/
 * Amplitude Modulation. An interactive demo which enables you to both see and hear the result of multiplying a sine wave with a cosine amplitude envelope, https://academo.org/demos/amplitude-modulation/
@@ -196,6 +199,7 @@ https://m.youtube.com/watch?v=AuNNYn2BQYU
 * Dance Music Rudiments, Free E-Book with Audio Examples and Midi Files, http://users.skynet.be/shedo/DMR1/Index.htm
 * Equalization 101 – Everything Musicians Need to Know About EQ, http://flypaper.soundfly.com/produce/equalization-101-everything-musicians-need-know-eq/
 * Cult Sounds: An investigation of the origins, applications and effects of dominant individual sounds in popular music between 1960 and 2014, Dr. Immanuel Brockhaus, Hochschule der Künste Bern, Schweiz, http://cult-sounds.com
+* Übersicht über Frequenzbereich unterschiedlicher Instrumente: http://www.guitarbuilding.org/wp-content/uploads/2014/06/Instrument-Sound-EQ-Chart.pdf
 
 ### Midi & OSC (Open Sound Control)
 
