@@ -1,4 +1,4 @@
-# Hausaufgabe zum 07.11.2017
+# Hausaufgabe zum 24.11.2017
 # Studie in C-Mixolydisch
 
 play :c2, attack: 8, sustain: 6, release: 24
