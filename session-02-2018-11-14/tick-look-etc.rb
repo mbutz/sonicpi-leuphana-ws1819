@@ -7,7 +7,7 @@ use_synth_defaults attack: 0, release: 0.25
 # Variablen und Anzeige mit 'puts'
 #######################################################################
 
-# v1 = 2016
+# v1 = 2018
 # v2 = "Leuphana"
 
 # puts "Das Sonic Pi-Seminar finden #{v1} an der #{v2} statt."
