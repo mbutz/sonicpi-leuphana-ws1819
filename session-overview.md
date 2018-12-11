@@ -78,6 +78,7 @@ Datum: 28.11.2018
 ### Ressourcen
 
 - Sonic Pi-Hilfe zu `sample` etc. und Tutorial "3 Samples"
+- Nyquist and sampling quality: https://www.youtube.com/watch?v=pKa_m9KGB98&t=1m12s, https://www.youtube.com/watch?v=kLZqo1xwOWs
 - "Can I Get Another Amen", Dokumentarfilm über den Amen Break von Nate Harrison, https://archive.org/details/NateHarrisonCanIGetAnAmen
 
 ## Session 4: Filter und Effekte in Sonic Pi, Musiktheorie
@@ -173,6 +174,7 @@ https://m.youtube.com/watch?v=AuNNYn2BQYU
 * All things livecoding - A curated list of livecoding languages and tools, https://github.com/lvm/awesome-livecoding/
 * Bericht über Live-Coding im Deutschlandfunk vom 18.10.2016, http://www.deutschlandfunk.de/live-coding-konferenz-die-leute-koennen-sehen-wie-musik.807.de.html?dram:article_id=368890
 * Toplap - Home of Live Coding, http://toplap.org/
+* Toplap - Awesome Live Coding (Übersicht und diverse Links): https://github.com/toplap/awesome-livecoding/blob/master/README.md
 
 ### Synthesizer, Klangsynthese
 
@@ -187,6 +189,7 @@ https://m.youtube.com/watch?v=AuNNYn2BQYU
 * Amplitude Modulation. An interactive demo which enables you to both see and hear the result of multiplying a sine wave with a cosine amplitude envelope, https://academo.org/demos/amplitude-modulation/
 * An Introduction to FM Synthesis,  http://flypaper.soundfly.com/produce/an-introduction-to-fm-synthesis/
 * Instrument, effect and plugin host VST Plugins and VST3 Plugins and soundware for Windows, Mac OS X and Linux: https://www.kvraudio.com/plugins/windows/macosx/linux/vst-plugins/vst3-plugins/instruments/effects/hosts/soundware/newest
+* An Intro to Making Generative Music on Modular, https://www.youtube.com/watch?v=NvrxQbh6vAg&app=desktop
 
 ### Akustik, Klang, Musiktheorie, Stilmittel, Genre
 
