@@ -1,10 +1,6 @@
 # Wie man einen Drum-Loop zerschneidet und teilweise aufruft
 # filename: drum-loop-sliced.rb
 
-wavs = "/home/marty/tmp/leuphana/"
-
-# I Follow Rivers-Mp3Cutter.wav
-
 use_bpm 120
 
 define :part1 do

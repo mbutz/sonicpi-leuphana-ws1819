@@ -1,13 +1,8 @@
 # Wie man viele Töne macht
 # filename: many-notes.rb
 
-wavs = "/home/marty/tmp/leuphana/"
-
-# I Follow Rivers-Mp3Cutter.wav
-
 use_bpm 60
 use_synth :fm
-
 
 live_loop :looping do
   with_fx :reverb, room: 1, mix: 0.5 do
