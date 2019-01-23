@@ -211,15 +211,6 @@ bassline_b = [:r, :g1, :r, :r,
               :r, :r, :f2, :r,
               :r, :bb2, :r, :r]
 
-bassline_c = [:r, :g1, :r, :r,
-              :r, :g1, :r, :r,
-              :r, :r, :bb1, :r,
-              :f2, :r, :bb1, :r,
-              :c1, :c2, :r, :c3,
-              :c2, :c2, :r, :c3,
-              :r, :r, :f2, :r,
-              :r, :bb2, :r, :r]
-
 live_loop :bassline, sync: :metro do
   
   stop if run_bassline == 0
