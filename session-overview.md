@@ -158,6 +158,8 @@ Datum: 06.02.2019
 * Homepage von Sonic Pi: http://sonic-pi.net/
 * Offizielle Sonic-Pi-Community: https://in-thread.sonic-pi.net
 * Anlaufstelle für Entwickler: https://github.com/samaaron/sonic-pi
+* Sonic Pi-Tutorial online: https://sonic-pi.net/tutorial.html#section-1
+* Ideen und Beispiele für Sonic Pi (laufend erweiterte Sammlung von M. Butz): https://github.com/mbutz/sonic-pi-resources
 * Libraries für Sonic Pi (Wrapper zur vereinfachten Notation von Melodien, Rhythmen etc.):
   * beatPattern: These are some functions to parse a string like 'x-x-(hc)-[xx:2]-' into a ring of samples, (nested) rings or (nested) arrays to create a nice beat,  https://github.com/stahnirockt/beatPattern/blob/master/README.md
   * Petal: is a small language on Sonic Pi with similar syntax to TidalCycles, https://github.com/siaflab/petal
