@@ -110,12 +110,6 @@ live_loop :organ_support, sync: :metro do
   end
 end
 
-# Sample ----------------------------------------------------------------------
-live_loop :samples, sync: :metro do
-  
-  sleep 24
-end
-
 # Echoes ----------------------------------------------------------------------
 live_loop :echoes, sync: :metro do
   
@@ -474,7 +468,7 @@ live_loop :strings, sync: :metro do
   end
 end
 
-live_loop :strings_support, sync: :strings do
+live_loop :strings_support, sync: :metro do
   
   stop if run_strings_support == 0
   
