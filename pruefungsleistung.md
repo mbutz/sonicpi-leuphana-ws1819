@@ -27,7 +27,7 @@ end
 
 ## Dokumentation bzw. Reflexion 
 
-* mit einem Umfang von ca. 5 Din A4-Seiten nach wissenschaftlichen Standards (Quellenangaben, wenn notwendig
+* mit einem Umfang von ca. 5 Din A4-Seiten nach wissenschaftlichen Standards (d. h. korrekte Quellenangaben)
 * Dies kann unterschiedliches sein z. B.:
   * Gedanken zu Themen der einzelnen Sessions
   * Dokumentation zu eurem Code-Beispiel (wie seid ihr vorgegangen, welche ästhetischen Überlegungen habt ihr angestellt usw.)
