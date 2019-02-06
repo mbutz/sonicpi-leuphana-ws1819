@@ -22,7 +22,8 @@ end
 
 ```
 
-Code-Beispiele, wo ich mehr ändern muss als lediglich die Pfadangabe oben in der Datei, schicke ich euch zurück.
+* Code-Beispiele, an denen ich mehr ändern muss als lediglich die Pfadangabe oben in der Datei, kann ich nicht annehmen.
+* Code als Datei mit der Endung '.txt' oder '.rb' sowie Samples bitte per Email an mb@mkblog.org; sollten die Samples zu groß als Anhang sein, dann bitte per 'Wetransfer', 'dropbox' oder auf ähnliche Weise. 
 
 ## Dokumentation bzw. Reflexion 
 
